@@ -1,0 +1,4 @@
+scipy
+noisereduce
+adaptfilt
+nara-wpe
